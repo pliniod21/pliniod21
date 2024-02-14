@@ -5,4 +5,4 @@ https://m3u8.bz/a2/docs/comedycentral/__index.m3u8?mu3zAQc9HC3GbwJq=WMNBaBpfinF3
 #EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="https://imgur.com/H03jUu1.png" group-title="Canais | FILMES E SERIES",MEGAPIX HD
 https://m3u8.bz/a2/docs/megapix/__index.m3u8?mu3zAQc9HC3GbwJq=qe6IbEyHaXtkhAcgsyBJyA&3U1G7qaTxrPbalZnEx=1707906031
 #EXTINF:-1 tvg-id="FX HD" tvg-logo="https://imgur.com/szGH75G.png" group-title="Canais | FILMES E SERIES",FX HD
-[https://m3u8.bz/a2/docs/fx/__index.m3u8?mu3zAQc9HC3GbwJq=Y8cckE9H3xw2FJZs5BSK4A&3U1G7qaTxrPbalZnEx=1707906093](https://m3u8.bz/a2/docs/fx/__index.m3u8?mu3zAQc9HC3GbwJq=RT-49TGFaVIn7G8_tvWVSQ&3U1G7qaTxrPbalZnEx=1707910941)https://m3u8.bz/a2/docs/fx/__index.m3u8?mu3zAQc9HC3GbwJq=RT-49TGFaVIn7G8_tvWVSQ&3U1G7qaTxrPbalZnEx=1707910941
+https://m3u8.bz/a2/docs/fx/__index.m3u8?mu3zAQc9HC3GbwJq=RT-49TGFaVIn7G8_tvWVSQ&3U1G7qaTxrPbalZnEx=1707910941
